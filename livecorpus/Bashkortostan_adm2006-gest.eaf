@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-16T19:57:11+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-16T21:02:29+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -3695,97 +3695,97 @@
         PARENT_REF="gesture@adm2006f" PARTICIPANT="nekonastix" TIER_ID="gestMeaning@adm2006f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a980" ANNOTATION_REF="a973">
-                <ANNOTATION_VALUE>подчеркнуть эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a981" ANNOTATION_REF="a974">
-                <ANNOTATION_VALUE>подчеркнуть эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a982" ANNOTATION_REF="a975">
-                <ANNOTATION_VALUE>качество (неопределённость)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: качество (неопределённость)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1054" ANNOTATION_REF="a1052">
-                <ANNOTATION_VALUE>задуматься</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задуматься</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1020" ANNOTATION_REF="a976">
-                <ANNOTATION_VALUE>подчеркнуть эмфазу,подчеркнуть ритм речи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический жест: подчеркнуть эмфазу,подчеркнуть ритм речи</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1021" ANNOTATION_REF="a1011">
-                <ANNOTATION_VALUE>указание на объект (студия)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест: указание на объект (студия)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1057" ANNOTATION_REF="a1055">
-                <ANNOTATION_VALUE>насмешка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест-речевое действие: насмешка</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1022" ANNOTATION_REF="a1012">
-                <ANNOTATION_VALUE>объяснение,поиск слова</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест-речевое действие:объяснение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1023" ANNOTATION_REF="a1013">
-                <ANNOTATION_VALUE>сосредоточенность</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: сосредоточенность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1024" ANNOTATION_REF="a1014">
-                <ANNOTATION_VALUE>обобщение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобазительный жест: группа объектов</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1043" ANNOTATION_REF="a1025">
-                <ANNOTATION_VALUE>сосредоточенность</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: сосредоточенность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1044" ANNOTATION_REF="a1026">
-                <ANNOTATION_VALUE>подчеркнуть эмфазу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический жест: подчеркнуть эмфазу</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1045" ANNOTATION_REF="a1027">
-                <ANNOTATION_VALUE>новая тема</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический жест: новая тема</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1046" ANNOTATION_REF="a1028">
-                <ANNOTATION_VALUE>объяснение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест-речевое действие: объяснение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1047" ANNOTATION_REF="a1029">
-                <ANNOTATION_VALUE>при смехе</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>этикетный жест: при смехе</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1048" ANNOTATION_REF="a1030">
-                <ANNOTATION_VALUE>направление, объяснение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>дейктический жест: направление, объяснение</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1049" ANNOTATION_REF="a1031">
-                <ANNOTATION_VALUE>задуматься</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задуматься</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1050" ANNOTATION_REF="a1032">
-                <ANNOTATION_VALUE>задуматься,поиск слова</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест внутреннего состояния: задуматься, поисковый жест: поиск слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1051" ANNOTATION_REF="a1033">
-                <ANNOTATION_VALUE>приводит пример</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жест-речевое действие: приводит пример</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
